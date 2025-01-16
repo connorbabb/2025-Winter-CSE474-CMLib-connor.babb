@@ -2,7 +2,6 @@
 
 Software Quality Assurance Plan
 
-
 # Revision History
 
 ## v0.0.1 - 09 January 2025 - Connor Babb
