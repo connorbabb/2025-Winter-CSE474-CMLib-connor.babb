@@ -7,15 +7,44 @@ Approved By: Scott Wood
 Signature: 
 
 # Table of Contents
+- [Revision History](#revision-history)
 - [Table of Figures](#table-of-figures)
 - [1 - Concept of Operations](#1---concept-of-operations)
 - [2 - Definitions and Acronyms](#2---definitions-and-acronyms)
 - [3 - Reference Documents](#3---reference-documents)
-- [Revision History](#revision-history)
 - [4 - SQA Plan Overview](#4---sqa-plan-overview)
+- [4.1 - Organization and Independence](#41---organization-and-independence)
+- [4.2 - Software Product risk](#42---software-product-risk)
+- [4.3 - Tools](#43---tools)
+- [4.4 - Standards, Practices, and Conventions](#44---standards-practices-and-conventions)
+- [4.5 - Effort, Resources, Schedule](#45---effort-resources-schedule)
 - [5 - Activities, Outcomes, Tasks](#5---activities-outcomes-tasks)
+- [5.1 - Product Assurance](#51---product-assurance)
+- [5.2 - Process Assurance](#52---process-assurance)
 - [6 - Additional Considerations](#6---additional-considerations)
+- [6.1 - Contract Review](#61---contract-review)
+- [6.2 - Quality Measurement](#62---quality-measurement)
+- [6.3 - Waivers and Deviations](#63---waivers-and-deviations)
+- [6.4 - Task Repetitions](#64---task-repetitions)
+- [6.5 - Risks to Performing SQA](#65---risks-to-performing-sqa)
+- [6.6 - Communications Strategy](#66---communications-strategy)
+- [6.7 - Non-Conformanace Process](#67---non-conformanace-process)
 - [7 - SQA Records](#7---sqa-records)
+- [7.1 - Analyze, Identify, Collect, File, Maintain and Dispose](#71---analyze-identify-collect-file-maintain-and-dispose)
+- [7.2 - Availability of Records](#72---availability-of-records)
+
+# Revision History
+
+## v0.1.0 - 09 January 2025 - Connor Babb
+* Created and edited the SQAP so it outlines the general plan for the product.
+
+## v0.1.1 - 28 January 2025 - Connor Babb
+* Created stubs for sections 4-7 ([SQA Plan Overview], [Activities, Outcomes, Tasks], [Additional Considerations], [SQA Records]).
+* Updated Table of Contents to include the above added sections.
+
+## v0.1.2 - 29 January 2025 - Connor Babb
+* Moved 'Revision History' to top of SQAP.
+* Added all subsections to ToC.
 
 # Table of Figures
 * No figures created.
@@ -44,15 +73,6 @@ The contract is as follows:
 
 ### Documentation:
 * No Documentation listed.
-
-# Revision History
-
-## v0.1.0 - 09 January 2025 - Connor Babb
-* Created and edited the SQAP so it outlines the general plan for the product.
-
-## v0.1.1 - 28 January 2025 - Connor Babb
-* Created stubs for sections 4-7 ([SQA Plan Overview], [Activities, Outcomes, Tasks], [Additional Considerations], [SQA Records]).
-* Updated Table of Contents to include the above added sections.
 
 ## 4 - SQA Plan Overview
 
